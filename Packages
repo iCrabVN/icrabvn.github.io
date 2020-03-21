@@ -1,0 +1,14 @@
+Package: com.icrabvn.networklist
+Name: NetworkList
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Author: Qusic <hi@qusic.me>
+Maintainer: iCrabVN
+Section: Utilities
+Description: Hiển thị tất cả các mật khẩu wifi trong phần Cài đặt
+Depiction: https://icrabvn.github.io/packagesInfo/NetworkList.html
+Filename: ./debs/com.icrabvn.networklist_0.4.1_iphoneos-arm.deb
+Size: 31802
+MD5sum: 464a5a27e9c573761e09cd7abf8535fc
+SHA1: a499cd130b06b8bfec2607b368e88ff416b24dec
+SHA256: 65b44da4ffa5940f884c3f2864626990713f60e452e65dee537ca8632cc93610
