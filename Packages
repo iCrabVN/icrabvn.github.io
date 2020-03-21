@@ -27,3 +27,18 @@ Size: 18698
 MD5sum: b2bf8e91c6f466865688734dbc2ac6b9
 SHA1: b434edd55cc2d97a74de0dacaa4589745284ab00
 SHA256: 9c84172c6e887b2b6f909eee40bdb431e2c03723237ea450eaf3011e7d10f60a
+
+Package: com.icrabvn.celldia
+Name: CellDia
+Version: 0.0~beta5
+Architecture: iphoneos-arm
+Author: julioverne
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Hiển thị nút xóa/tải tweaks
+Depiction: https://icrabvn.github.io/packagesInfo/CellDia.html
+Filename: ./debs/com.icrabvn.celldia_0.0_beta5_iphoneos-arm.deb
+Size: 20016
+MD5sum: 14e1e3f160eee3e13ead0bc157342af4
+SHA1: fbf05d1fd1eccadc4041da9708ab4269ca9be445
+SHA256: a69d5e9ce623bd4c94a7b67f885122a43e0738de812ca18bcbfde24294f9b378
