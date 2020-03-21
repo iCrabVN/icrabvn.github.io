@@ -12,3 +12,18 @@ Size: 31802
 MD5sum: 464a5a27e9c573761e09cd7abf8535fc
 SHA1: a499cd130b06b8bfec2607b368e88ff416b24dec
 SHA256: 65b44da4ffa5940f884c3f2864626990713f60e452e65dee537ca8632cc93610
+
+Package: com.icrabvn.pulltorespring
+Name: PullToRespring
+Version: 1.2
+Architecture: iphoneos-arm
+Author: Noah Saso <noahsaso@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Kéo xuống trong phần Cài đặt để Respring
+Depiction: https://icrabvn.github.io/packagesInfo/PullToRespring.html
+Filename: ./debs/com.icrabvn.pulltorespring_1.2_iphoneos-arm.deb
+Size: 18698
+MD5sum: b2bf8e91c6f466865688734dbc2ac6b9
+SHA1: b434edd55cc2d97a74de0dacaa4589745284ab00
+SHA256: 9c84172c6e887b2b6f909eee40bdb431e2c03723237ea450eaf3011e7d10f60a
