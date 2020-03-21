@@ -42,3 +42,18 @@ Size: 20016
 MD5sum: 14e1e3f160eee3e13ead0bc157342af4
 SHA1: fbf05d1fd1eccadc4041da9708ab4269ca9be445
 SHA256: a69d5e9ce623bd4c94a7b67f885122a43e0738de812ca18bcbfde24294f9b378
+
+Package: com.icrabvn.multiiconmover.plus
+Name: MultiIconMover+
+Version: 2.11.0
+Architecture: iphoneos-arm
+Author: Lance Fetters (ashikase)
+Maintainer: iCrabVN
+Section: Utilities
+Description: Giúp bạn di chuyển nhiều icon cùng một lúc
+Depiction: https://icrabvn.github.io/packagesInfo/MultiIconMoverPlus.html
+Filename: ./debs/com.icrabvn.multiiconmover.plus_2.11.0_iphoneos-arm.deb
+Size: 56674
+MD5sum: f2976974899312ebbcc51f635883930d
+SHA1: 6aaade88bdd7e576243ef5e5935171d06ddfe8dd
+SHA256: dad57e97557fe522f2cb2de1e683d783fa8491cce6414bf809caf14c66562a8c
