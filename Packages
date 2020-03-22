@@ -57,3 +57,18 @@ Size: 56674
 MD5sum: f2976974899312ebbcc51f635883930d
 SHA1: 6aaade88bdd7e576243ef5e5935171d06ddfe8dd
 SHA256: dad57e97557fe522f2cb2de1e683d783fa8491cce6414bf809caf14c66562a8c
+
+Package: com.icrabvn.smartsourceprompt
+Name: SmartSourcePrompt
+Version: 0.1-60
+Architecture: iphoneos-arm
+Author: Arthur da Paz (ashikase)
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Thêm nhiều nguồn vào Cydia cùng một lúc
+Depiction: https://icrabvn.github.io/packagesInfo/SmartSourcePrompt.html
+Filename: ./debs/com.icrabvn.smartsourceprompt_0.1-60_iphoneos-arm.deb
+Size: 8292
+MD5sum: 0d93517c99af94601c208ed09ee108ca
+SHA1: 5821b93df7f558c3dd51623e833dc7bbc58e4dcc
+SHA256: 3d8c5fe43519ef678b0997981ed3cf9758181335db0f54475a262d1086a59317
