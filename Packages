@@ -53,7 +53,7 @@ Section: Utilities
 Description: Giúp bạn di chuyển nhiều icon cùng một lúc
 Depiction: https://icrabvn.github.io/packagesInfo/MultiIconMoverPlus.html
 Filename: ./debs/com.icrabvn.multiiconmover.plus_2.11.0_iphoneos-arm.deb
-Size: 56674
+Size: 56774
 MD5sum: fb8d6016270a7d4616f2703d14acdbfe
 SHA1: a7544f2543d0e9a46590fb9f05605c52101b02b1
 SHA256: 556199dba67b2fa94ba1ae754d4cbbc9a945ce748d17e5cff29d700807f59397
