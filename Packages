@@ -54,9 +54,9 @@ Description: Giúp bạn di chuyển nhiều icon cùng một lúc
 Depiction: https://icrabvn.github.io/packagesInfo/MultiIconMoverPlus.html
 Filename: ./debs/com.icrabvn.multiiconmover.plus_2.11.0_iphoneos-arm.deb
 Size: 56674
-MD5sum: f2976974899312ebbcc51f635883930d
-SHA1: 6aaade88bdd7e576243ef5e5935171d06ddfe8dd
-SHA256: dad57e97557fe522f2cb2de1e683d783fa8491cce6414bf809caf14c66562a8c
+MD5sum: fb8d6016270a7d4616f2703d14acdbfe
+SHA1: a7544f2543d0e9a46590fb9f05605c52101b02b1
+SHA256: 556199dba67b2fa94ba1ae754d4cbbc9a945ce748d17e5cff29d700807f59397
 
 Package: com.icrabvn.smartsourceprompt
 Name: SmartSourcePrompt
