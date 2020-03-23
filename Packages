@@ -72,3 +72,18 @@ Size: 8292
 MD5sum: 0d93517c99af94601c208ed09ee108ca
 SHA1: 5821b93df7f558c3dd51623e833dc7bbc58e4dcc
 SHA256: 3d8c5fe43519ef678b0997981ed3cf9758181335db0f54475a262d1086a59317
+
+Package: com.icrabvn.swipeformore
+Name: SwipeForMore
+Version: 1.1.7
+Architecture: iphoneos-arm
+Author: PoomSmart <poomst@hotmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Quản lí tweaks bằng cách trượt
+Depiction: https://icrabvn.github.io/packagesInfo/SwipeForMore.html
+Filename: ./debs/com.icrabvn.swipeformore_1.1.7_iphoneos-arm.deb
+Size: 27184
+MD5sum: ff89ef30ee39671e035f1075e27bec28
+SHA1: e8c441affe630ed1c4e5669e05368bb4e25cf410
+SHA256: f0aab46872a63334bb42f8cef83fccdb368fd5cb8bc696f1256142c91a1e8c12
