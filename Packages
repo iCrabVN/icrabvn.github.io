@@ -87,3 +87,18 @@ Size: 27184
 MD5sum: ff89ef30ee39671e035f1075e27bec28
 SHA1: e8c441affe630ed1c4e5669e05368bb4e25cf410
 SHA256: f0aab46872a63334bb42f8cef83fccdb368fd5cb8bc696f1256142c91a1e8c12
+
+Package: com.icrabvn.clearfolders
+Name: ClearFolders
+Version: 1.3-1
+Architecture: iphoneos-arm
+Author: daniel63194/Infinite <eremeev.daniel69@icloud.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Làm nền thư mục ứng dụng trong suốt
+Depiction: https://icrabvn.github.io/packagesInfo/ClearFolders.html
+Filename: ./debs/com.icrabvn.clearfolders_1.3-1_iphoneos-arm.deb
+Size: 25758
+MD5sum: 4604c927165b25f3468adf48e822d20d
+SHA1: 8e5dbed023c0b2bb4122312181ff5cd44ba46862
+SHA256: 7e061065514e749e9d55d573215bb1ac63d6a704aacd13848d49b39bccb39493
