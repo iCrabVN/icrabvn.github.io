@@ -11,6 +11,7 @@
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
 </head>
 <body>
 	<div class="container-fluid">
@@ -20,7 +21,7 @@
 			</li>
 		</ul>
 		<ul class="list-group mt-5"> 
-			<label for="source" class="font-weight-bold">Thêm nguồn</label>
+			<label class="font-weight-bold">Thêm nguồn</label>
 			<li class="list-group-item" id="source">
 				<img src="https://cydia.saurik.com/icon/cydia.png" alt="" class="img-fluid">
 				<span><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://icrabvn.github.io/" class="link">Thêm nguồn vào Cydia</a></span>
@@ -28,7 +29,7 @@
 			<p class="text-center">Repo: https://icrabvn.github.io</p>
 		</ul>
 		<ul class="list-group mt-5">
-			<label for="packages" class="font-weight-bold">Các mục</label>
+			<label class="font-weight-bold">Các mục</label>
 			<li class="list-group-item">
 				<img src="img/source_logo/utilities.jpeg" alt="" class="img-fluid">
 				<span><a href="browse_package/Utilities.html" class="link">Tiện ích</a></span>
@@ -39,14 +40,24 @@
 			</li>
 		</ul>
 		<ul class="list-group mt-5">
-			<label for="packages" class="font-weight-bold">Ủng hộ</label>
+			<label class="font-weight-bold">Ủng hộ</label>
 			<li class="list-group-item">
 				<a href="" class="blockoPayBtn" data-toggle="modal" data-uid=9185c8ea69da11ea><img width=160 src="https://www.blockonomics.co/img/pay_with_bitcoin_medium.png"></a>
+			</li>
+		</ul>
+		<ul class="list-group mt-5">
+			<label class="font-weight-bold">Hỗ trợ</label>
+			<li class="list-group-item">
+				<button id="facebook-btn" class="btn" type="button" style="background: #3b5998; color: #fff;">Facebook</button>
+			</li>
+			<li class="list-group-item">
+				<button id="report-btn" class="btn btn-danger" type="button">Báo lỗi</button>
 			</li>
 		</ul>
 		<p class="text-center mt-3">iCrabVN © 2020</p>
 	</div>
 	<!-- JS -->
 	<script src="https://www.blockonomics.co/js/pay_button.js"></script>
+	<script src="js/main.js"></script>
 </body>
 </html>
