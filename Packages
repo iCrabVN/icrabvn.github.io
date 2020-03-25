@@ -119,7 +119,7 @@ SHA1: 73da58eef6b3b7af4f9fc8948c70e8e288f51520
 SHA256: 86090c08f03c60eb06c14f51410c72ff15fa39c01f0899477fbe7eb7105fbbde
 
 Package: com.icrabvn.wifibooster
-Name: WiFiBooster
+Name: WiFi Booster
 Version: 2.0.2
 Architecture: iphoneos-arm
 Author: Malcolm Hall
