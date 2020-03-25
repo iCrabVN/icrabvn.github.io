@@ -102,3 +102,18 @@ Size: 25758
 MD5sum: 4604c927165b25f3468adf48e822d20d
 SHA1: 8e5dbed023c0b2bb4122312181ff5cd44ba46862
 SHA256: 7e061065514e749e9d55d573215bb1ac63d6a704aacd13848d49b39bccb39493
+
+Package: com.icrabvn.localiapstore
+Name: LocalIAPStore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Author: anondev
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Giúp bạn thanh toán trong các game offline miễn phí bằng cách nhấn hủy
+Depiction: https://icrabvn.github.io/packagesInfo/LocalIAPStore.html
+Filename: ./debs/com.icrabvn.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 71056
+MD5sum: a9105fa0d6bddc348538ec7deec5356d
+SHA1: 73da58eef6b3b7af4f9fc8948c70e8e288f51520
+SHA256: 86090c08f03c60eb06c14f51410c72ff15fa39c01f0899477fbe7eb7105fbbde
