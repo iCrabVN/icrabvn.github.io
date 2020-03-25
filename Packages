@@ -117,3 +117,18 @@ Size: 71056
 MD5sum: a9105fa0d6bddc348538ec7deec5356d
 SHA1: 73da58eef6b3b7af4f9fc8948c70e8e288f51520
 SHA256: 86090c08f03c60eb06c14f51410c72ff15fa39c01f0899477fbe7eb7105fbbde
+
+Package: com.icrabvn.wifibooster
+Name: WiFiBooster
+Version: 2.0.2
+Architecture: iphoneos-arm
+Author: Malcolm Hall
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Thêm nhiều tiên ích cho WiFi
+Depiction: https://icrabvn.github.io/packagesInfo/WiFiBooster.html
+Filename: ./debs/com.icrabvn.wifibooster_2.0.2_iphoneos-arm.deb
+Size: 71702
+MD5sum: 754753016bfa507820e59548186679b4
+SHA1: 44f9cdb69bbe51732e8690ff9ff81a0774819aa4
+SHA256: 48af5701736e2ddb0e4c3118b4e65f4a1afe1b5e37c13ccb9820310a641f4e3b
