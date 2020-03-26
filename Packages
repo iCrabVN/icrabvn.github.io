@@ -147,3 +147,18 @@ Size: 26474
 MD5sum: 76569fcd915057a00e91ff1e3a9004d6
 SHA1: cd302bb58aedfb11cbb7f6321a9485b113b68b92
 SHA256: 2c040cc1b62fb86a04a05e03f1d1aa86babffc969633c833ba3002547456e67f
+
+Package: com.icrabvn.ccrecord
+Name: CCRecord
+Version: 1.0-6
+Architecture: iphoneos-arm
+Author: ca13ra1 <cabralcole@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Thêm nút quya màn hình vào control center
+Depiction: https://icrabvn.github.io/packagesInfo/CCRecord.html
+Filename: ./debs/com.icrabvn.ccrecord_1.0-6_iphoneos-arm.deb
+Size: 20994
+MD5sum: 3ba867aa00a535810955430bb46d2497
+SHA1: fdbf4e48bd69ffea2c8b8b5543b6d00b51256b56
+SHA256: a1fec0a8a09b14b0cd3429f6f8045d7cf2c1a68afe6632273adb32edd4ee62fc
