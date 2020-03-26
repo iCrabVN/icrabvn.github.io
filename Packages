@@ -162,3 +162,18 @@ Size: 20994
 MD5sum: 3ba867aa00a535810955430bb46d2497
 SHA1: fdbf4e48bd69ffea2c8b8b5543b6d00b51256b56
 SHA256: a1fec0a8a09b14b0cd3429f6f8045d7cf2c1a68afe6632273adb32edd4ee62fc
+
+Package: com.icrabvn.liberty
+Name: Liberty
+Version: 0.2.10
+Architecture: iphoneos-arm
+Author: Ryley Angus
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Chặn ứng dụng phát hiện Jailbreak
+Depiction: https://icrabvn.github.io/packagesInfo/Liberty.html
+Filename: ./debs/com.icrabvn.liberty_0.2.10_iphoneos-arm.deb
+Size: 87960
+MD5sum: 0cbc8fa59d27ed9290aed80045187e59
+SHA1: 15348faaf847e418674abc3f5469e5b416147516
+SHA256: 2214c86504e609a62e2ca3e18fd729cb4aefe64dd4f8897a93c0ed4105e06336
