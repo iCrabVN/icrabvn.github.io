@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	// Facebook Button
 	$('#facebook-btn').click(function() {
-		confirm("Comming Soon !");
+		alert("Comming Soon !");
 	});
 	// Report Button
 	$('#report-btn').click(function() {
