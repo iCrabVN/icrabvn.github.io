@@ -177,3 +177,18 @@ Size: 87960
 MD5sum: 0cbc8fa59d27ed9290aed80045187e59
 SHA1: 15348faaf847e418674abc3f5469e5b416147516
 SHA256: 2214c86504e609a62e2ca3e18fd729cb4aefe64dd4f8897a93c0ed4105e06336
+
+Package: com.icrabvn.swipeselection-pro
+Name: SwipeSelection Pro
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Author: Kyle Howells
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Trượt để di chuyển con trỏ
+Depiction: https://icrabvn.github.io/packagesInfo/SwipeSelectionPro.html
+Filename: ./debs/com.icrabvn.swipeselection-pro_1.0.3-1_iphoneos-arm.deb
+Size: 44976
+MD5sum: 09130c8909ed17015c79e1e425b279b0
+SHA1: 9e02fbfc54020c2758fa5cad6994d86d6fc07cd3
+SHA256: ead9a15b055c3cb926e4fe97b1fa331581b71f781ae747dfc9fd13e0376b5480
