@@ -192,3 +192,18 @@ Size: 44976
 MD5sum: 09130c8909ed17015c79e1e425b279b0
 SHA1: 9e02fbfc54020c2758fa5cad6994d86d6fc07cd3
 SHA256: 024503fd5aac4c4b2e5ec154dab2c16ca777f7f2ec206cc6af574ece3c105489
+
+Package: com.icrabvn.batterylife
+Name: BatteryLife
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Author: rbt <batterylife1.7.x@rbtdigital.com>
+Maintainer: iCrabVN
+Section: Utilities
+Description: Hiển thị thông tin pin
+Depiction: https://icrabvn.github.io/packagesInfo/BatteryLife.html
+Filename: ./debs/com.icrabvn.batterylife_1.7.0_iphoneos-arm.deb
+Size: 3856604
+MD5sum: 83c9067b300ba29fff1d380ecf6b7d03
+SHA1: 8b13b6540663a3abe04d202bbb8e0cf3fe257f69
+SHA256: 810bbc6a717dd5eb18fb8b0ea97925596e907daaa93531ea0054c4a3d7bbc07c
