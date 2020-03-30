@@ -207,3 +207,18 @@ Size: 3856604
 MD5sum: 83c9067b300ba29fff1d380ecf6b7d03
 SHA1: 8b13b6540663a3abe04d202bbb8e0cf3fe257f69
 SHA256: 810bbc6a717dd5eb18fb8b0ea97925596e907daaa93531ea0054c4a3d7bbc07c
+
+Package: com.icrabvn.fastercharging
+Name: Faster Charging
+Version: 0.0.1
+Architecture: iphoneos-arm
+Author: pxcex <pxcex@icloud.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Giúp bạn sạc nhanh
+Depiction: https://icrabvn.github.io/packagesInfo/FasterCharging.html
+Filename: ./debs/com.icrabvn.fastercharging_0.0.1_iphoneos-arm.deb
+Size: 119758
+MD5sum: 6e11b4320037d4d39f64da9fa5c83048
+SHA1: 411d1c044a34ca61f15e450b09ab95dfd1737013
+SHA256: e177fb3bce6d01583dafb6e7aeaa890f2d69ecb744cb94bbedc6423899e33c99
