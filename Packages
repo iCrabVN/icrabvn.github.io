@@ -222,3 +222,18 @@ Size: 119758
 MD5sum: 6e11b4320037d4d39f64da9fa5c83048
 SHA1: 411d1c044a34ca61f15e450b09ab95dfd1737013
 SHA256: e177fb3bce6d01583dafb6e7aeaa890f2d69ecb744cb94bbedc6423899e33c99
+
+Package: com.icrabvn.downlock
+Name: DownLock
+Version: 0.2-6
+Architecture: iphoneos-arm
+Author: va2ron1
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Khóa/mở khóa thiết bị khi úp mặt
+Depiction: https://icrabvn.github.io/packagesInfo/DownLock.html
+Filename: ./debs/com.icrabvn.downlock_0.2-6_iphoneos-arm.deb
+Size: 38026
+MD5sum: b7d8afa742c395511bc9eaa7b0a850dd
+SHA1: a387e5fd6aa1b2bac9cbe8487f8ab643be179f1e
+SHA256: e065bfe055523e06b2e198c4438a3e9ae1ff61dbf4b0cfa447b9e1964b874ab5
