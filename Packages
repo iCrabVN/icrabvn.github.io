@@ -222,3 +222,18 @@ Size: 119758
 MD5sum: 6e11b4320037d4d39f64da9fa5c83048
 SHA1: 411d1c044a34ca61f15e450b09ab95dfd1737013
 SHA256: e177fb3bce6d01583dafb6e7aeaa890f2d69ecb744cb94bbedc6423899e33c99
+
+Package: com.icrabvn.cask
+Name: Cask
+Version: 0.2
+Architecture: iphoneos-arm
+Author: Ryan Petrich
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Thêm hiệu ứng khi vuốt
+Depiction: https://icrabvn.github.io/packagesInfo/Cask.html
+Filename: ./debs/com.icrabvn.cask_0.2_iphoneos-arm.deb
+Size: 11222
+MD5sum: 951917a5c6bd755506f479bad27ce709
+SHA1: ac614c918fab0caae75637034d6720574ec62299
+SHA256: b7293b6473e57261a60d709b4b5ad7f27198014fecadf4d45001231607528a46
