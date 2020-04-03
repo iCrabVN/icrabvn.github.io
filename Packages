@@ -252,3 +252,18 @@ Size: 19236
 MD5sum: d4c16176868e26c463152f3ca80f4b8b
 SHA1: 7f412586a4b3cb17af4cb0ebbad9ca3ed81c7917
 SHA256: 9e4c5fde83952c84042855723b8da687b902312cdfd789e774bb59e49169c887
+
+Package: com.icrabvn.dateinstatusbar
+Name: Date In Statusbar
+Version: 0.9.1-2
+Architecture: iphoneos-arm
+Author: Redpandadev
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Hiển thị ngày trên thạnh trạng thái
+Depiction: https://icrabvn.github.io/packagesInfo/DateInStatusbars.html
+Filename: ./debs/com.icrabvn.dateinstatusbar_0.9.1-2_iphoneos-arm.deb
+Size: 5010
+MD5sum: b10fd59e3bbb4922763152597f297e3c
+SHA1: f810eaef062b7bf32c3748a6b2e82602d19de354
+SHA256: 7d95ace5a31faf3f6d772648406b1ef9321e3084c1e564a8ae376317f5836ffa
