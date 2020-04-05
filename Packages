@@ -267,3 +267,18 @@ Size: 5012
 MD5sum: bfc9513290789d60297dd26aba8af9d4
 SHA1: dab2ac366b8882a0eed37846c24b436b4ec94df6
 SHA256: 0731e60065a83bd6dd81543e7754902c0e5e5268270de751e932349be43ed9bd
+
+Package: com.icrabvn.iconrenamer
+Name: Icon Renamer
+Version: 1.2.5
+Architecture: iphoneos-arm
+Author: Ryan Petrich <rpetrich@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Đổi tên ứng dụng trên màn hình
+Depiction: https://icrabvn.github.io/packagesInfo/IconRenamer.html
+Filename: ./debs/com.icrabvn.iconrenamer_1.2.5_iphoneos-arm.deb
+Size: 23544
+MD5sum: a49016f889d07792e90627d556e4f93f
+SHA1: 416c064fa4e549149c67289a4bb4b1fb4c98af3a
+SHA256: 7b37f1421cc9e81c446c800a1cc99a8d434309d1ec7be3fcc546b9dfbe225380
