@@ -282,3 +282,18 @@ Size: 23544
 MD5sum: a49016f889d07792e90627d556e4f93f
 SHA1: 416c064fa4e549149c67289a4bb4b1fb4c98af3a
 SHA256: 7b37f1421cc9e81c446c800a1cc99a8d434309d1ec7be3fcc546b9dfbe225380
+
+Package: com.icrabvn.iwidgets
+Name: iWidgets
+Version: 1.3.2
+Architecture: iphoneos-arm
+Author: eldwin <eldwin_@hotmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: HTML Widgets cho màn hình
+Depiction: https://icrabvn.github.io/packagesInfo/iWidgets.html
+Filename: ./debs/com.icrabvn.iwidgets_1.3.2_iphoneos-arm.deb
+Size: 332262
+MD5sum: 20de685e6043705ab9cecd46ce6e7dcf
+SHA1: 9051246ad5cba4991dfc0c38174dafd6373a972b
+SHA256: c9b5e1e0f9e86aeadeaaa73b607895c925bc969c7505bfa8b490d85c21de61a6
