@@ -297,3 +297,18 @@ Size: 332262
 MD5sum: 20de685e6043705ab9cecd46ce6e7dcf
 SHA1: 9051246ad5cba4991dfc0c38174dafd6373a972b
 SHA256: c9b5e1e0f9e86aeadeaaa73b607895c925bc969c7505bfa8b490d85c21de61a6
+
+Package: com.icrabvn.adblockplus
+Name: AdBlock ++
+Version: 1.4-1
+Architecture: iphoneos-arm
+Author: ReJail
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Chặn quảng cáo cho các ứng dụng ++
+Depiction: https://icrabvn.github.io/packagesInfo/AdBlockPlus.html
+Filename: ./debs/com.icrabvn.adblockplus_1.4-1_iphoneos-arm.deb
+Size: 16134
+MD5sum: b3c9620ebe25496a1f3a88415534a760
+SHA1: 458a93a483d4678d164a29b267f903a2d1054a21
+SHA256: 22c8e5f03ccac16929cbd60a77bec0d83be890ad77f17e089c85cf0cee70d971
