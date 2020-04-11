@@ -312,18 +312,3 @@ Size: 16134
 MD5sum: b3c9620ebe25496a1f3a88415534a760
 SHA1: 458a93a483d4678d164a29b267f903a2d1054a21
 SHA256: 22c8e5f03ccac16929cbd60a77bec0d83be890ad77f17e089c85cf0cee70d971
-
-Package: com.icrabvn.3dswitcher2
-Name: 3DSwitcher 2
-Version: 2.0.5
-Architecture: iphoneos-arm
-Author: CoolStar
-Maintainer: iCrabVN
-Section: Tweaks
-Description: Giao diện 3D cho đa nhiệm
-Depiction: https://icrabvn.github.io/packagesInfo/3DSwitcher2.html
-Filename: ./debs/com.icrabvn.3dswitcher2_2.0.5_iphoneos-arm.deb
-Size: 783072
-MD5sum: 3d7944d6a7a92899b8a488c451718ade
-SHA1: d7d7d67649875b15a785f00defc512fb1dadff54
-SHA256: 6cbe2ddd621b5fb7e2d243106d708f8fbfd517d446ddc14a6832d1af0e136d81
