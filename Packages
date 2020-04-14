@@ -327,3 +327,18 @@ Size: 783072
 MD5sum: 3d7944d6a7a92899b8a488c451718ade
 SHA1: d7d7d67649875b15a785f00defc512fb1dadff54
 SHA256: 6cbe2ddd621b5fb7e2d243106d708f8fbfd517d446ddc14a6832d1af0e136d81
+
+Package: com.icrabvn.safarifullscreenscrolling
+Name: SafariFullScreenScrolling
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Ziph0n <Ziph0ntweak@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Toàn màn hình khi cuộn xuống trong Safari
+Depiction: https://icrabvn.github.io/packagesInfo/SafariFullScreenScrolling.html
+Filename: ./debs/com.icrabvn.safarifullscreenscrolling_1.0_iphoneos-arm.deb
+Size: 4516
+MD5sum: 6b6c1beeb4ce5a45450a1875bf008eab
+SHA1: 87c636bf55a46d75938672a72e7495697e8c6208
+SHA256: d6835c445420df6db8189c85eb322c6ef26b8619a169e7c0068e578b3eedc47d
