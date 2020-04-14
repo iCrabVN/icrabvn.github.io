@@ -357,3 +357,18 @@ Size: 44478
 MD5sum: bf9ba8cee5ac433ad2a742ec2066ddfd
 SHA1: 23d0704608b9d16290abe68f9e89ecc22618b413
 SHA256: 03a36bf8be411b72d56dbcf97c5f2aa1cc1fe7318e8478989f76f3ab21866557
+
+Package: com.icrabvn.wicarrier
+Name: WiCarrier
+Version: 1.1.4
+Architecture: iphoneos-arm
+Author: Ryan Petrich <rpetrich+wicarrier@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Đổi tên nhà mạng thành tên WiFi bạn đang dùng
+Depiction: https://icrabvn.github.io/packagesInfo/WiCarrier.html
+Filename: ./debs/com.icrabvn.wicarrier_1.1.4_iphoneos-arm.deb
+Size: 13920
+MD5sum: ffc892575fc217a1de3e170c225f0a0a
+SHA1: b28f1b00ba2776dec751781cadfe1ab017c85797
+SHA256: 8ebe1661a8fa830e928e4bd882d6e3efea734c20fbbbc4b2f656f2d9969375bd
