@@ -342,3 +342,18 @@ Size: 4516
 MD5sum: 6b6c1beeb4ce5a45450a1875bf008eab
 SHA1: 87c636bf55a46d75938672a72e7495697e8c6208
 SHA256: d6835c445420df6db8189c85eb322c6ef26b8619a169e7c0068e578b3eedc47d
+
+Package: com.icrabvn.photosize
+Name: PhotoSize
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Sinister Industries
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Hiển thị kích thước cho ảnh và video
+Depiction: https://icrabvn.github.io/packagesInfo/PhotoSize.html
+Filename: ./debs/com.icrabvn.photosize_1.0_iphoneos-arm.deb
+Size: 44478
+MD5sum: bf9ba8cee5ac433ad2a742ec2066ddfd
+SHA1: 23d0704608b9d16290abe68f9e89ecc22618b413
+SHA256: 03a36bf8be411b72d56dbcf97c5f2aa1cc1fe7318e8478989f76f3ab21866557
