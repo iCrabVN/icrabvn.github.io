@@ -372,3 +372,18 @@ Size: 13920
 MD5sum: ffc892575fc217a1de3e170c225f0a0a
 SHA1: b28f1b00ba2776dec751781cadfe1ab017c85797
 SHA256: 8ebe1661a8fa830e928e4bd882d6e3efea734c20fbbbc4b2f656f2d9969375bd
+
+Package: com.icrabvn.translucentcydia
+Name: TranslucentCydia
+Version: 0.9.0-1
+Architecture: iphoneos-arm
+Author: Sam Stone <stonesam92@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Hình nền cho phần cài đặt trong Cydia
+Depiction: https://icrabvn.github.io/packagesInfo/TranslucentCydia.html
+Filename: ./debs/com.icrabvn.translucentcydia_0.9.0-1_iphoneos-arm.deb
+Size: 9138
+MD5sum: bd97a15eb09d8b8666f470905229c807
+SHA1: 57814b1678bc19a19451855fac5e3fc24bdb1337
+SHA256: b5a2f8a80af7ce832bdc79b93d4dfd762f2187a66b5464a580d0ccfba8bc6e33
