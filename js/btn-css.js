@@ -5,4 +5,6 @@ $(document).ready(function() {
     $('#facebook-btn').addClass('facebook-button');
     // Jailbreak btn
     $('#jailbreak-btn').addClass('jailbreak-btn');
+    // Donate with paypal btn
+    $('#donate-with-paypal').addClass('paypal-btn');
 });
