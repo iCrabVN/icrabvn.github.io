@@ -402,3 +402,18 @@ Size: 17040
 MD5sum: c9213f641e553d8fbb825da52db4168f
 SHA1: 0488d0256f67f2d3c3cadca96b3ffd99f2b1caec
 SHA256: f9c40e50071415503e9c7c15741b65f9865bb87a0cc3a56a9b21925c2f7bb83c
+
+Package: com.icrabvn.icleanerpro
+Name: iCleanerPro
+Version: 7.8.2
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: iCrabVN
+Section: Utilities
+Description: Dọn rác cho thiết bị iOS của bạn
+Depiction: https://icrabvn.github.io/packagesInfo/iCleanerPro.html
+Filename: ./debs/com.icrabvn.icleanerpro_7.8.2_iphoneos-arm.deb
+Size: 9658638
+MD5sum: def984fc016444deba04b3105928681f
+SHA1: 3dcf2f20bf535aa6d4759c9fa82eed5f4990924b
+SHA256: 7a58f3273373f04de38731d3b7bc27afa94547efaf1b9d4003a58d38ef94ed92
