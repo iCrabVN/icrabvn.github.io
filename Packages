@@ -4,7 +4,7 @@ Version: 1.0.1-1
 Architecture: iphoneos-arm
 Author: Qusic <hi@qusic.me>
 Maintainer: iCrabVN
-Section: Utilities
+Section: Tweaks
 Description: Hiển thị tất cả các mật khẩu wifi trong phần Cài đặt
 Depiction: https://icrabvn.github.io/packagesInfo/NetworkList.html
 Filename: ./debs/com.icrabvn.networklist_0.4.1_iphoneos-arm.deb
