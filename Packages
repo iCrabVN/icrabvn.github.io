@@ -387,3 +387,18 @@ Size: 9138
 MD5sum: bd97a15eb09d8b8666f470905229c807
 SHA1: 57814b1678bc19a19451855fac5e3fc24bdb1337
 SHA256: b5a2f8a80af7ce832bdc79b93d4dfd762f2187a66b5464a580d0ccfba8bc6e33
+
+Package: com.icrabvn.taptapflip
+Name: TapTapFlip
+Version: 1.5
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Nhấp hai lần để đổi Camera
+Depiction: https://icrabvn.github.io/packagesInfo/TapTapFlip.html
+Filename: ./debs/com.icrabvn.taptapflip_1.5_iphoneos-arm.deb
+Size: 17040
+MD5sum: c9213f641e553d8fbb825da52db4168f
+SHA1: 0488d0256f67f2d3c3cadca96b3ffd99f2b1caec
+SHA256: f9c40e50071415503e9c7c15741b65f9865bb87a0cc3a56a9b21925c2f7bb83c
