@@ -49,14 +49,14 @@ Version: 2.11.0
 Architecture: iphoneos-arm
 Author: Lance Fetters (ashikase)
 Maintainer: iCrabVN
-Section: Utilities
+Section: Tweaks
 Description: Giúp bạn di chuyển nhiều icon cùng một lúc
 Depiction: https://icrabvn.github.io/packagesInfo/MultiIconMoverPlus.html
 Filename: ./debs/com.icrabvn.multiiconmover.plus_2.11.0_iphoneos-arm.deb
-Size: 56774
-MD5sum: fb8d6016270a7d4616f2703d14acdbfe
-SHA1: a7544f2543d0e9a46590fb9f05605c52101b02b1
-SHA256: 556199dba67b2fa94ba1ae754d4cbbc9a945ce748d17e5cff29d700807f59397
+Size: 56766
+MD5sum: 30de67af889e12439b6890419d330293
+SHA1: c53a38081a3e50e2520ff0091d6f1800580b0de7
+SHA256: 1cab689313899d0b6e0ea93fed2c5c32248e3c2edd696700c78a0555b16a6c5d
 
 Package: com.icrabvn.smartsourceprompt
 Name: SmartSourcePrompt
