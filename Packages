@@ -417,3 +417,18 @@ Size: 9658638
 MD5sum: def984fc016444deba04b3105928681f
 SHA1: 3dcf2f20bf535aa6d4759c9fa82eed5f4990924b
 SHA256: 7a58f3273373f04de38731d3b7bc27afa94547efaf1b9d4003a58d38ef94ed92
+
+Package: com.icrabvn.icleanerdarktheme
+Name: iCleaner Dark Theme
+Version: 1.0.2
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: iCrabVN
+Section: Themes
+Description: Giao diện tối cho iCleaner (Pro)
+Depiction: https://icrabvn.github.io/packagesInfo/iCleanerDarkTheme.html
+Filename: ./debs/com.icrabvn.icleanerdarktheme_1.0.2_iphoneos-arm.deb
+Size: 1338
+MD5sum: 6037e4facacb7aa236c2544b1919647f
+SHA1: 0e48bde49aaf864a528b39e5cf3eccf2484d7de0
+SHA256: 9999835a504d61526e2d2f05ceb082c26d6986ab926e876cb7e884eef6b5daa7
