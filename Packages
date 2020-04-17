@@ -432,3 +432,18 @@ Size: 1338
 MD5sum: 6037e4facacb7aa236c2544b1919647f
 SHA1: 0e48bde49aaf864a528b39e5cf3eccf2484d7de0
 SHA256: 9999835a504d61526e2d2f05ceb082c26d6986ab926e876cb7e884eef6b5daa7
+
+Package: com.icrabvn.transparentdock
+Name: TransparentDock
+Version: 1.1-1
+Architecture: iphoneos-arm
+Author: Jonathan Bailey
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Làm thanh Dock trong suốt
+Depiction: https://icrabvn.github.io/packagesInfo/TransparentDock.html
+Filename: ./debs/com.icrabvn.transparentdock_1.1-1_iphoneos-arm.deb
+Size: 3856
+MD5sum: a4acf9cbb869355ebd37d29729cbbaa2
+SHA1: 9e4418a5783a1a8148a86e3f35f69e84f46d7b19
+SHA256: 1c240b19071f29c9691dac8055f4303c08e54bb7fbfe3aa707a634d93e1f4fcf
