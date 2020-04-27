@@ -447,3 +447,18 @@ Size: 3856
 MD5sum: a4acf9cbb869355ebd37d29729cbbaa2
 SHA1: 9e4418a5783a1a8148a86e3f35f69e84f46d7b19
 SHA256: 1c240b19071f29c9691dac8055f4303c08e54bb7fbfe3aa707a634d93e1f4fcf
+
+Package: com.icrabvn.muze4
+Name: Muze 4
+Version: 1.04
+Architecture: iphoneos-arm
+Author: Kogulan (Purdix)
+Maintainer: iCrabVN
+Section: Themes
+Description: Giao diện Muze 4
+Depiction: https://icrabvn.github.io/packagesInfo/Muze4.html
+Filename: ./debs/com.icrabvn.muze4_1.04_iphoneos-arm.deb
+Size: 28697422
+MD5sum: 1e0c386b840dfefcd1ef049e336e5caf
+SHA1: dcec704ca24840b5286505f5d6ce100f9a06bcac
+SHA256: d88b06ce236d904cf6f48b749385fbe6cefd03718da639258b476fdb03935ab0
