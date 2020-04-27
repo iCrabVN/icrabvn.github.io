@@ -462,3 +462,18 @@ Size: 28697422
 MD5sum: 1e0c386b840dfefcd1ef049e336e5caf
 SHA1: dcec704ca24840b5286505f5d6ce100f9a06bcac
 SHA256: d88b06ce236d904cf6f48b749385fbe6cefd03718da639258b476fdb03935ab0
+
+Package: com.icrabvn.turkey
+Name: Turkey
+Version: 0.0.1
+Architecture: iphoneos-arm
+Author: LaughingQuoll
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Darkmode cho Cydia
+Depiction: https://icrabvn.github.io/packagesInfo/Turkey.html
+Filename: ./debs/com.icrabvn.turkey_0.0.1_iphoneos-arm.deb
+Size: 15178
+MD5sum: 1847778ebdec47b044cbe06fd372d282
+SHA1: 94f2c13c25496e8952012edb2e94ae2a7f86aa42
+SHA256: 58c0323817b067d3de0aaf8cd8f0e63477b503c2ca28f452b51fd7f7d491550e
