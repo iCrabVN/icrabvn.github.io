@@ -477,3 +477,18 @@ Size: 15178
 MD5sum: 1847778ebdec47b044cbe06fd372d282
 SHA1: 94f2c13c25496e8952012edb2e94ae2a7f86aa42
 SHA256: 58c0323817b067d3de0aaf8cd8f0e63477b503c2ca28f452b51fd7f7d491550e
+
+Package: com.icrabvn.arp-scan
+Name: arp-scan
+Version: 1.8.1-1
+Architecture: iphoneos-arm
+Author: Roy Hills <Roy.Hills@nta-monitor.com>
+Maintainer: iCrabVN
+Section: Development
+Description: Công cụ quét và lấy dấu vân tay ARP. Arp-scan là một công cụ dòng lệnh sử dụng giao thức ARP để khám phá và lưu trữ IP dấu vân tay trên mạng cục bộ. Nó có sẵn theo giấy phép GPL (GPLv3)
+Depiction: https://icrabvn.github.io/packagesInfo/arp-scan.html
+Filename: ./debs/com.icrabvn.arp-scan_1.8.1-1_iphoneos-arm.deb
+Size: 283490
+MD5sum: 22e2146f80ff33271ce7c2cbe26a45c9
+SHA1: 7bfed0c8a69a9ec3742f286f05cd4564d9abc03e
+SHA256: 7ffe5e97766a5909a065ba59794bad24a57f6905d0707ba17d34e11c05875338
