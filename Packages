@@ -492,3 +492,18 @@ Size: 283490
 MD5sum: 22e2146f80ff33271ce7c2cbe26a45c9
 SHA1: 7bfed0c8a69a9ec3742f286f05cd4564d9abc03e
 SHA256: 7ffe5e97766a5909a065ba59794bad24a57f6905d0707ba17d34e11c05875338
+
+Package: com.icrabvn.ctf
+Name: CaptureTheFlag
+Version: 1.0.2
+Architecture: iphoneos-arm
+Author: MTAC <mtactheming@gmail.com>
+Maintainer: iCrabVN
+Section: Tweaks
+Description: Ngăn chặn lỗi chuỗi Shindhi làm đơ thiết bị của bạn
+Depiction: https://icrabvn.github.io/packagesInfo/CaptureTheFlag.html
+Filename: ./debs/com.icrabvn.ctf_1.0.2_iphoneos-arm.deb
+Size: 10374
+MD5sum: bbc6f007ef0cb2176bc67b22e0d95efa
+SHA1: eb2af60f4b09245329b6a079b605ecd13d19297f
+SHA256: 4c87998cb14dae6fd918111bf9544beba90275e9e5fbc6dde35dd9c30fe2fdf0
