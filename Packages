@@ -264,6 +264,7 @@ Package: com.icrabvn.dateinstatusbar
 Name: Date In Statusbar
 Version: 0.9.1-2
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 8.0)
 Author: Redpandadev
 Maintainer: iCrabVN
 Section: Tweaks
@@ -279,6 +280,7 @@ Package: com.icrabvn.iconrenamer
 Name: Icon Renamer
 Version: 1.2.5
 Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Author: Ryan Petrich <rpetrich@gmail.com>
 Maintainer: iCrabVN
 Section: Tweaks
@@ -294,6 +296,7 @@ Package: com.icrabvn.iwidgets
 Name: iWidgets
 Version: 1.3.2
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 4.2.1)
 Author: eldwin <eldwin_@hotmail.com>
 Maintainer: iCrabVN
 Section: Tweaks
@@ -324,6 +327,7 @@ Package: com.icrabvn.3dswitcher2
 Name: 3DSwitcher 2
 Version: 2.0.5
 Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
 Author: CoolStar
 Maintainer: iCrabVN
 Section: Tweaks
@@ -339,6 +343,7 @@ Package: com.icrabvn.safarifullscreenscrolling
 Name: SafariFullScreenScrolling
 Version: 1.0
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 9.0)
 Author: Ziph0n <Ziph0ntweak@gmail.com>
 Maintainer: iCrabVN
 Section: Tweaks
@@ -354,6 +359,7 @@ Package: com.icrabvn.photosize
 Name: PhotoSize
 Version: 1.0
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
 Author: Sinister Industries
 Maintainer: iCrabVN
 Section: Tweaks
@@ -369,6 +375,7 @@ Package: com.icrabvn.wicarrier
 Name: WiCarrier
 Version: 1.1.4
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 3.0)
 Author: Ryan Petrich <rpetrich+wicarrier@gmail.com>
 Maintainer: iCrabVN
 Section: Tweaks
@@ -384,6 +391,7 @@ Package: com.icrabvn.translucentcydia
 Name: TranslucentCydia
 Version: 0.9.0-1
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 7.0), cydia (>= 1.1.19)
 Author: Sam Stone <stonesam92@gmail.com>
 Maintainer: iCrabVN
 Section: Tweaks
@@ -399,6 +407,7 @@ Package: com.icrabvn.taptapflip
 Name: TapTapFlip
 Version: 1.5
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Maintainer: iCrabVN
 Section: Tweaks
@@ -414,6 +423,7 @@ Package: com.icrabvn.icleanerpro
 Name: iCleanerPro
 Version: 7.8.2
 Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), findutils, apt | apt7
 Author: Ivano Bilenchi <support@ib-soft.net>
 Maintainer: iCrabVN
 Section: Utilities
@@ -429,6 +439,7 @@ Package: com.icrabvn.icleanerdarktheme
 Name: iCleaner Dark Theme
 Version: 1.0.2
 Architecture: iphoneos-arm
+Pre-depends: winterboard
 Author: Ivano Bilenchi <support@ib-soft.net>
 Maintainer: iCrabVN
 Section: Themes
@@ -444,6 +455,7 @@ Package: com.icrabvn.transparentdock
 Name: TransparentDock
 Version: 1.1-1
 Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
 Author: Jonathan Bailey
 Maintainer: iCrabVN
 Section: Tweaks
@@ -474,6 +486,7 @@ Package: com.icrabvn.turkey
 Name: Turkey
 Version: 0.0.1
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Author: LaughingQuoll
 Maintainer: iCrabVN
 Section: Tweaks
@@ -489,6 +502,7 @@ Package: com.icrabvn.arp-scan
 Name: arp-scan
 Version: 1.8.1-1
 Architecture: iphoneos-arm
+Depends: com.icrabvn.libpcap
 Author: Roy Hills <Roy.Hills@nta-monitor.com>
 Maintainer: iCrabVN
 Section: Development
